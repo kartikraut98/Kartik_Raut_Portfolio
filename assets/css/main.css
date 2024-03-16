@@ -5328,7 +5328,8 @@ img {
     display: block;
     width: 1px;
     height: 100%;
-    background-color: var(--first-color);
+    /*background-color: var(--first-color);*/
+	background-color: rgb(147, 167, 173);
     transform: translate(6px, -7px);
 }
 
